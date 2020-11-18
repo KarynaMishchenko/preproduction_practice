@@ -1,3 +1,0 @@
-body {
-    color: green;
-    background-color: #d8da3d }
